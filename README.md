@@ -7,7 +7,7 @@ In 2009, Bitcoin was invented by an anonymous person or group and released as op
 | Attribute | Explanation |
 | - | - |
 | Summary | This lab will explore Bitcoin transactions and network statistics visually.|
-| Topics  | Bitcoin, transactions, blockchain, decentralization, visualization |
+| Topics | Bitcoin, transactions, blockchain, decentralization, visualization |
 | Audience | CS1 and above. |
 | Difficulty | Intermediate |
 | Strengths | Familiarizes the reader with Bitcoin as a technology. |
