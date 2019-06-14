@@ -32,6 +32,7 @@ Mario Canul
 Saxon Knight  
 
 [BitcoinBook]: https://github.com/bitcoinbook/bitcoinbook
+[BitcoinBookChapter01]: https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc
 [VisualUTransacs]: https://dailyblockchain.github.io
 [BnodesLive]: https://bitnodes.earn.com/nodes/live-map/
 [BnodesMap]: https://bitnodes.earn.com/nodes/network-map/
