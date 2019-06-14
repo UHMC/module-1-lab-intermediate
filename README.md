@@ -16,15 +16,15 @@ In 2009, Bitcoin was invented by an anonymous person or group and released as op
 | Variants | This lab is focused on Bitcoin, but a similar tour could be constructed for other systems such as Ethereum. |
 
 ## Assignment Instructions (15 Minutes)
-1. Our first stop is the book this lab and many others are based on, which the reader may find useful in a quest for a deeper understanding of Bitcoin, [Mastering Bitcoin 2nd Edition][BitcoinBook]. Although a print version exists, the authors have made the entire text conveniently open-source and available on GitHub. [Here's a link to the first chapter.][BitcoinBookChapter01]
-2. Bitcoin's value is what most people know about Bitcoin. Its exponential increase in value made speculators flock to the cryptocurrency like they discovered fire. [Here's a visualization on world currencies (like the USD or JPY) being spent at exchanges to buy Bitcoin.][FiatLeak] and [here's a graph showing the number of transactions over Bitcoin's inception.][BTransacsAll]
+1. Our first stop is the book this lab and many others are based on, which the reader may find useful in a quest for a deeper understanding of Bitcoin: [Mastering Bitcoin 2nd Edition][BitcoinBook]. Although a print version exists, the authors have made the entire text conveniently open-source and available on GitHub. [Here's a link to the first chapter.][BitcoinBookChapter01]
+2. Bitcoin's value is what most people know about Bitcoin. Its exponential increase in value made speculators flock to the cryptocurrency like the discovery of fire. [Here's a visualization on world currencies (like the USD or JPY) being spent at exchanges to buy Bitcoin.][FiatLeak] and [here's a graph showing the number of transactions since Bitcoin's inception.][BTransacsAll]
 	* [Here's a visualization of unconfirmed transactions][VisualUTransacs]
-	* and [here is a VR way of looking at transactions happening around the globe][BitcoinVR]
-3. Bitcoin in its simplicity is just a ledger. This ledger becomes bigger and bigger as more and more transactions are created. Blockchain size is a measure of how big this ledger is. [You can see a graph of the size of the Bitcoin blockchain size here.][BlockchainSize]
-4. Bitcoin transactions are placed in a pool of unconfirmed transactions. Bitcoin uses miners to pick unconfirmed transactions to add to the blockchain. These miners race to find the solution of a mathematical problem in order to get a reward in Bitcoins. Once this solution is found, the transactions picked by the miner are added to a block that will be placed on the overall blockchain. [You can see the average number of transactions per block here.][AvgTransacsBlock]
+	* And [here is a VR way of looking at transactions happening around the globe][BitcoinVR]
+3. Bitcoin at its core is just a ledger. This ledger becomes bigger and bigger as more and more transactions are created. Blockchain size is a measure of how big this ledger is. [You can see a graph of the size of the Bitcoin blockchain here.][BlockchainSize]
+4. Bitcoin transactions are placed in a pool of unconfirmed transactions. Bitcoin uses miners to pick unconfirmed transactions to add to the blockchain. These miners race to find the solution of a mathematical problem in order to have their block of transactions added to the blockchain and receive a reward in Bitcoins. Once the solution is found, the race begins again with a new set of remaining uncomfirmed transactions. [You can see the average number of transactions per block here.][AvgTransacsBlock]
 	* [Here's a graph of the difficulty of the mathematical problem that the miners must solve.][Bdifficulty]
-	* [Here's a graph of the reward that these miners get from solving the mathematical problem.][Breward]
-5. The backbone of the Bitcoin network is made up of what are called nodes. You can see a couple of maps [here][BnodesLive] and [here][BnodesMap].
+	* [Here's a graph of the reward that the miners get from solving the mathematical problem.][Breward]
+5. The backbone of the Bitcoin network is made up of nodes, or participants' computers running the Bitcoin software. You can see a couple of maps [here][BnodesLive] and [here][BnodesMap].
 
 ## Credits
 Dr. Debasis Bhattacharya  
